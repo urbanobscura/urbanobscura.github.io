@@ -1,5 +1,5 @@
-Aşağıda linki ve açıklaması bulunan one page template'i urbanobscura.net'in manifesto sayfası olarak kullanıp birkaç manipülasyonla değiştirmeyi uygun gördük.
-For the one page template for our project, we shotse the following template we found on github. 
+# Aşağıda linki ve açıklaması bulunan one page template'i urbanobscura.net'in manifesto sayfası olarak kullanıp birkaç manipülasyonla değiştirmeyi uygun gördük.
+# For the one page template for our project, we chose the following template we found on github. 
 Thanks for a lovely and flexible theme. : ]
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
